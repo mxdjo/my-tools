@@ -2,8 +2,6 @@
 
 ## Systèmes d'exploitation
 
-![computer user](https://github.com/mxdjo/my-tools/blob/master/Images/noun_computer_1577369.png)
-
 ### Systèmes orientés Pentest
 
 > Hope is not a strategy
