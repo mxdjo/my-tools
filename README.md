@@ -11,7 +11,7 @@
 
 ### Systèmes user-friendly
 * Linux Mint ,[ici](https://linuxmint.com/)
-* Fedora 
+* Fedora [ici](https://getfedora.org/en/workstation/download/)
 
 ## Outils de recording
 * Asciinema rec [ici](https://asciinema.org/)
@@ -26,11 +26,15 @@
 * zeal : Outil de documentation hors ligne
 > Zeal is dedication or enthusiasm for something
 * howdoi (installer via pip)
+* Atom : Editeur [ici](https://atom.io/)
+* qtpass : Gestionnaire de mot de passe
 
 ## Terminal et personnalisation
+
+### Terminal
 * terminator
 * tmux
 
 
-###Personnalisation
+### Personnalisation
 * Sexy bash prompt
