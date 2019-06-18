@@ -2,7 +2,7 @@
 
 ## Systèmes d'exploitation
 
-![computer user](https://www.github.com/mxdjo/my-tools/Images/noun_computer_1577369.png)
+![computer user](https://github.com/mxdjo/my-tools/blob/master/Images/noun_computer_1577369.png)
 
 ### Systèmes orientés Pentest
 
@@ -29,7 +29,11 @@
 > Zeal is dedication or enthusiasm for something
 * howdoi (installer via pip)
 * Atom : Editeur [ici](https://atom.io/)
+
+
+## Outils pour utilisation perso
 * qtpass : Gestionnaire de mot de passe
+* 
 
 ## Terminal et personnalisation
 
