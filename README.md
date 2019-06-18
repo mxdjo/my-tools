@@ -2,7 +2,7 @@
 
 ## Systèmes d'exploitation
 
-![computer user](../Images/noun_computer user_1577369.png)
+![computer user](Images/noun_computer user_1577369.png)
 
 ### Systèmes orientés Pentest
 
