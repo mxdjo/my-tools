@@ -2,7 +2,7 @@
 
 ## Systèmes d'exploitation
 
-![computer user](https://www.github.com/mxdjo/my-tools/noun_computer_1577369.png)
+![computer user](https://www.github.com/mxdjo/my-tools/Images/noun_computer_1577369.png)
 
 ### Systèmes orientés Pentest
 
