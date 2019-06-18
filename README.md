@@ -2,6 +2,8 @@
 
 ## Systèmes d'exploitation
 
+![computer user](/Images/noun_computer user_1577369.png)
+
 ### Systèmes orientés Pentest
 
 > Hope is not a strategy
@@ -37,4 +39,4 @@
 
 
 ### Personnalisation
-* Sexy bash prompt
+* Sexy bash prompt, [lien](https://github.com/twolfson/sexy-bash-prompt)
