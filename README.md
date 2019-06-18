@@ -1,4 +1,4 @@
-# Listes des tools à installer sur mon new PC
+# Listes des outils à installer sur mon new PC
 
 ## Systèmes d'exploitation
 
@@ -33,7 +33,7 @@
 
 ## Outils pour utilisation perso
 * qtpass : Gestionnaire de mot de passe
-* 
+* Slack : [Slack](https://slack.com/intl/fr-ci/downloads/linux) 
 
 ## Terminal et personnalisation
 
