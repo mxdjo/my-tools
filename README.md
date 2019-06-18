@@ -34,6 +34,7 @@
 ## Outils pour utilisation perso
 * qtpass : Gestionnaire de mot de passe
 * Slack : [Slack](https://slack.com/intl/fr-ci/downloads/linux) 
+* Discord
 
 ## Terminal et personnalisation
 
