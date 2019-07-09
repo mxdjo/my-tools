@@ -2,8 +2,6 @@
 
 ## Systèmes d'exploitation
 
-![computer user](https://github.com/mxdjo/my-tools/blob/master/Images/noun_computer_1577369.png)
-
 ### Systèmes orientés Pentest
 
 > Hope is not a strategy
@@ -20,7 +18,7 @@
 * shutter
 
 
-## Outils pour sysadmin
+## Outils de boss
 
 * Git
 * sshuttle : VPN sur SSH, [description](https://sshuttle.readthedocs.io/en/stable/overview.html)
@@ -29,12 +27,19 @@
 > Zeal is dedication or enthusiasm for something
 * howdoi (installer via pip)
 * Atom : Editeur [ici](https://atom.io/)
-
+* MySQL workbench
 
 ## Outils pour utilisation perso
 * qtpass : Gestionnaire de mot de passe
 * Slack : [Slack](https://slack.com/intl/fr-ci/downloads/linux) 
 * Discord
+
+## Virtualisation
+
+* Virtualbox
+* Docker
+* Portainer : interface GUI pour Docker
+
 
 ## Terminal et personnalisation
 
